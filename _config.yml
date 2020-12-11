@@ -14,11 +14,12 @@ author: Haris Bin Zia
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://harisbinzia.github.io"
+  Publications: "https://harisbinzia.github.io"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "https://harisbinzia.github.io"
 
 # --- Logo --- #
 
