@@ -15,7 +15,7 @@ author: Haris Bin Zia
 
 navbar-links:
   Home: "https://harisbinzia.github.io"
-  Publications: "https://harisbinzia.github.io"
+  Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
